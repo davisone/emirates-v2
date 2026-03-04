@@ -24,6 +24,12 @@
 .DS_Store
 *.pem
 
+# IDE
+.idea/
+
+# screenshots
+*.png
+
 # debug
 npm-debug.log*
 yarn-debug.log*
